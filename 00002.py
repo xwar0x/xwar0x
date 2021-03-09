@@ -1,4 +1,4 @@
-#جمع اعداد با شزوع از ام تا ان 
+#The sum of natural numbers starts from (m) to (n)
 m = input("m:")
 m = int(m)
 z = m
